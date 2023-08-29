@@ -1,28 +1,22 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+image: img/whstools.png
+title: "Waipahu High School Tools"
+date: 2019
 published: true
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Vue.js
+  - HTML
+  - CSS
+summary: "An interactive web application designed for students at Waipahu High School to assist with class registration"
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u8mSTVgVnVg?si=MJ1ZCgjXMeLkIyyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Waipahu High School Tools is a web application that I helped create as a team project in 2019, we submitted this project to the Congressional App Challenge. The project helped me learn how to design and implement a responsive website.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
+WHS Tools was implemented using Vue.js (https://vuejs.org/), a JavaScript Framework. This web application is meant to make registering for classes easier, as it can be overwhelming for high school students. It provides an online list of all classes available, along with descriptions, prerequisites, and requirements. Students can also check if they are eligible for Academic or CTE Honors.
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Source: <a href="https://github.com/destinyshishido/WHStools-build-revision2">WHStools-build-revision2</a>
