@@ -65,29 +65,19 @@
       ]
     }
   ],
-  "volunteer": [
+  "awards": [
     {
-      "organization": "Great Aloha Run",
-      "website": "",
-      "position": "Volunteer",
-      "startDate": "2017-01-01",
-      "endDate": "Present",
-      "summary": "Help run booths along the Great Aloha Run",
-      "highlights": [
-      ]
+      "title": "Spring 2023 Manoa Dean's List",
+      "date": "Spring 2023",
+      "awarder": "University of Hawai`i at Manoa",
+      "summary": "Awarded to students at UH Manoa with a GPA of 3.5+"
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
-    }
-  ],
-  "awards": [
+      "title": "Fall 2022 Manoa Dean's List",
+      "date": "Fall 2022",
+      "awarder": "University of Hawai`i at Manoa",
+      "summary": "Awarded to students at UH Manoa with a GPA of 3.5+"
+    },
     {
       "title": "B+ Scholarship",
       "date": "2021-Present",
@@ -95,10 +85,10 @@
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
+      "title": "Career and Technical Student Organization Competition: Related Technical Math",
       "date": "2021",
-      "awarder": "Career and Technical Student Organization Competition: Related Technical Math",
-      "summary": ""
+      "awarder": "",
+      "summary": "First Place"
     }
   ],
   "references": [
