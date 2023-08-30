@@ -1,54 +1,19 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Never Take JavaScript for Granted"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-08-29
 published: true
 labels:
-  - Engineering
+  - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/jslogo.png">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+  Thanks to the Academy of Information Technology at my high school, I had the opportunity to learn a few coding languages before I graduated! One of the first languages that I learned was JavaScript, along with HTML and CSS, and it was decently easy to pick up. It is definitely a lot more flexible than other languages like C and allows beginner coders to learn how to code instead of being overly focused on small details like syntax and types. After taking ICS212 and learning C, I realized how much easier JavaScript was. I haven’t had to use JavaScript in recent years, simply because my classes never required it for anything, so doing the FreeCodeCamp Introduction to JavaScript really helped refresh my memory. The way that FreeCodeCamp takes you through the exercises is very interactive and easy to learn from, and I would recommend it to beginner JavaScript learners. Doing the ES6 section was also very beneficial because I was not very familiar with JavaScript classes and the overall syntax of setting up a JavaScript file.
+ 
+  From a software engineering perspective, JavaScript seems like an excellent language to have in your toolbox due to its ease of use, efficiency, and many frameworks that come along with it. Previously, I had used the framework Vue.js to create a website called Waipahu High School Tools and it made the process so much easier. This framework allowed me to create a responsive website with very little experience with JavaScript, and I can see that I could create very intricate websites with more practice. There are many other frameworks that are used, commonly for front-end development, such as Next, Meteor, Angular, and Bootstrap.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+  I am looking forward to sharpening my JavaScript skills and I believe that ICS314 will provide me with the opportunity to do so. I find that I am able to retain more knowledge by practicing a skill, and this applies to learning coding languages as well! The Workout of the Days (WODs) that I have done so far have been very enjoyable and I like how fast-paced they are. It can be stressful at times due to the time limit, but it is something that I believe I will get used to. The time limits are very reasonable and if I ever take longer than the accepted time it shows that I need to refer to outside sources to learn how to do the task.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
