@@ -11,7 +11,7 @@ labels:
 ## Humble Beginnings
   Thanks to the Academy of Information Technology at my high school, I had the opportunity to learn a few coding languages before I graduated! One of the first languages that I learned was JavaScript, along with HTML and CSS, and it was decently easy to pick up. It is definitely a lot more flexible than other languages like C and allows beginner coders to learn how to code instead of being overly focused on small details like syntax and types. After taking ICS212 and learning C, I realized how much easier JavaScript was. I haven’t had to use JavaScript in recent years, simply because my classes never required it for anything, so doing the FreeCodeCamp Introduction to JavaScript really helped refresh my memory. The way that FreeCodeCamp takes you through the exercises is very interactive and easy to learn from, and I would recommend it to beginner JavaScript learners. Doing the ES6 section was also very beneficial because I was not very familiar with JavaScript classes and the overall syntax of setting up a JavaScript file.
 
- ## My Experiences
+## My Experiences
   From a software engineering perspective, JavaScript seems like an excellent language to have in your toolbox due to its ease of use, efficiency, and many frameworks that come along with it. Previously, I had used the framework Vue.js to create a website called Waipahu High School Tools and it made the process so much easier. This framework allowed me to create a responsive website with very little experience with JavaScript, and I can see that I could create very intricate websites with more practice. There are many other frameworks that are used, commonly for front-end development, such as Next, Meteor, Angular, and Bootstrap.
 
 ## Always Improving!
