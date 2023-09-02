@@ -14,7 +14,7 @@ summary: "Small project that emulates a bank database"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/bank.png" class="img-thumbnail" >
+  <img width="500px" src="../img/bank.png" class="img-thumbnail" >
 </div>
 
 This Bank Database was a small project that I did for my ICS 212 class in Fall 2022. This program stores bank records which store a user's name, account number, and address. Records can be added, deleted, or searched for through the command line.
