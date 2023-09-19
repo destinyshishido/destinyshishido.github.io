@@ -8,6 +8,10 @@ published: true
 labels:
   - Software Engineering
 ---
+<div class="text-center p-4">
+  <img width="500px" src="../img/crossroads.png" class="img-thumbnail"  alt="Man standing at a crossroad">
+</div>
+
 ## Choosing my Path
 Growing up, I had many different aspirations for what I wanted my career to be. Some of which were silly, like being an astronaut or a professional competition eater. Others still sound like I would thoroughly enjoy, like being a teacher or a chef. All of these options sound amazing and fun but I don’t think it is what I want to do for the rest of my life, so I’ve decided to keep those as funny dreams and hobbies instead. Coding is what I have chosen to do and I am really interested in learning more about Software Engineering!
 

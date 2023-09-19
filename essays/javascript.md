@@ -8,6 +8,10 @@ published: true
 labels:
   - Software Engineering
 ---
+<div class="text-center p-4">
+  <img width="500px" src="../img/JavaScript-logo.png" class="img-thumbnail"  alt="JavaScript Logo">
+</div>
+
 ## Humble Beginnings
   Thanks to the Academy of Information Technology at my high school, I had the opportunity to learn a few coding languages before I graduated! One of the first languages that I learned was JavaScript, along with HTML and CSS, and it was decently easy to pick up. It is definitely a lot more flexible than other languages like C and allows beginner coders to learn how to code instead of being overly focused on small details like syntax and types. After taking ICS212 and learning C, I realized how much easier JavaScript was. I haven’t had to use JavaScript in recent years, simply because my classes never required it for anything, so doing the FreeCodeCamp Introduction to JavaScript really helped refresh my memory. The way that FreeCodeCamp takes you through the exercises is very interactive and easy to learn from, and I would recommend it to beginner JavaScript learners. Doing the ES6 section was also very beneficial because I was not very familiar with JavaScript classes and the overall syntax of setting up a JavaScript file.
 

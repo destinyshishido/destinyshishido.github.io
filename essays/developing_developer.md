@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 <div class="text-center p-4">
-  <img width="500px" src="../img/asking-questions.avif" class="img-thumbnail" >
+  <img width="500px" src="../img/asking-questions.avif" class="img-thumbnail"  alt="Two people with thought bubbles">
 </div>
     
 ## Developing Developer
