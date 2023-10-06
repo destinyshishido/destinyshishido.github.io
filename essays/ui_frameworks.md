@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 <div class="text-center p-4">
-  <img width="500px" src="../img/" class="img-thumbnail"  alt="">
+  <img width="500px" src="../img/bootstrap.png" class="img-thumbnail"  alt="">
 </div>
 
 ## Treacherous CSS
