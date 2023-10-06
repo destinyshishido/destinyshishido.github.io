@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Clean Code"
+title: "First UI Framework"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-05
 published: true
