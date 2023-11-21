@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Cr(AI)zy Technology!"
 # All dates must be YYYY-MM-DD format!
-date: 2023-11-32
+date: 2023-11-21
 published: true
 labels:
   - Software Engineering
