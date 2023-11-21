@@ -12,10 +12,10 @@ labels:
   <img width="500px" src="../img/ai.png" class="img-thumbnail"  alt="">
 </div>
 
- ## Introduction
+## Introduction
 Over the course of the semester, I have just barely dabbled in using AI to assist me with my ICS314 assignments. AI is a powerful tool that most professors do not allow, but it was cool to see a class where it is openly talked about. AI can be a developer's best friend, but only if they use it ethically and have a true desire for learning.
 
- ## Personal Experience with AI
+## Personal Experience with AI
 1. For the experience WODs, I never had to turn to AI for help. The experience WODs had very detailed instructions and were decently easy to figure out. If ever had trouble with them I would simply watch the YouTube video provided for that specific WOD, which I believe gave me the answers I needed faster than using AI. Sometimes I would even watch the YouTube video multiple times in order to understand the content better.
 2. During the in-class practice WOD I did not use AI because I felt that I was able to actually learn the content better through making mistakes. By making mistakes on the practice WOD I would have to problem-solve or search through documentation to find what I was looking for. I also could ask for help from my peers which I enjoy a lot more than using AI.
 3. The in-class WODs were definitely more difficult than the experience WODs and the practice WODs just because of the time limit. However, I did not resort to using AI for these because I felt that I had a good enough understanding to solve them on my own. Mentally, I never allowed myself to use AI on the in-class WODs and it forced me to try to understand the content well beforehand. The in-class practice WODs were very similar so I made sure I was able to do those before going into the in-class WODs.
@@ -30,7 +30,7 @@ Over the course of the semester, I have just barely dabbled in using AI to assis
 12. I did not use AI for documenting code, I found it pretty easy to do on my own. I thought it would be important to be able to do this without AI so I could understand what each piece of code does and explain it well.
 13. I did not use AI for quality assurance, I was able to debug my code pretty well just by reading through the errors thrown. I think it is a good skill to be able to debug or fix style errors on your own. By doing it on your own, you can be sure to code better initially rather than going back to fix things with AI later. By doing this, I was able to learn how to code within ESLint rules and I barely encountered errors for it.
 
- ## Impact on Learning and Understanding
+## Impact on Learning and Understanding
 Being allowed to use AI as a tool for ICS314 was surprising to me, as this was the first class I have taken that embraced it. Depending on how you use AI, it can be both beneficial and detrimental. I believe I use AI well because I use it only when I think it is the most optimal way for me to learn and problem-solve. It is great for understanding how to code because you may not be able to find such specific examples elsewhere. With AI, you can ask much more specific questions and find more tailored solutions, but by searching Google you will find much more broad solutions. Overall, I think that AI has enhanced my understanding of software engineering concepts!
 
 ## Practical Applications
