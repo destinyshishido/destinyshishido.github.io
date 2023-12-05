@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 <div class="text-center p-4">
-  <img width="500px" src="../img/design_patterns.png" class="img-thumbnail"  alt="Design Patterns">
+  <img width="500px" src="../img/design_patterns.webp" class="img-thumbnail"  alt="Design Patterns">
 </div>
 
 ## Try Try Try
