@@ -17,7 +17,8 @@ summary: "An application for the University of Hawaii at Manoa students to conne
   <img width="500px" src="../img/manoamelody_events.png" class="img-thumbnail"  alt="The Manoa Melody Explore Events page">
 </div>
 
-Manoa Melody is a web application for the University of Hawaii at Manoa students to form connections based on music, instruments, and genre interests. Users are able to create an account with an email and password and are then able to create their own profile for others to see! They can choose their display name, instrument interests, and genre interests, and can add any additional information to their bio. Users can view everyone else's profiles and can also upload/view upcoming musical events along with their tagged instruments and genre's
+Manoa Melody is a web application for the University of Hawaii at Manoa students to form connections based on music, instruments, and genre interests. I loved this idea for the project because I myself am a music enthusiast. I listen to around 100,000 minutes of music every year and I love talking about music with others and going to concerts. Manoa Melody opens the doors for other music enthusiasts to not only meet those with similar interests but also provide them with opportunities to go to events that are catered to them.
+Users are able to create an account with an email and password and are then able to create their own profile for others to see! They can choose their display name, instrument interests, and genre interests, and can add any additional information to their bio. Users can view everyone else's profiles and can also upload/view upcoming musical events along with their tagged instruments and genres. 
 
 <div class="text-center p-4">
   <img width="500px" src="../img/manoamelody_profile.png" class="img-thumbnail"  alt="The Manoa Melody Profile page">
