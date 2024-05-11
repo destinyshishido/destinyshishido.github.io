@@ -8,11 +8,6 @@ published: true
 labels:
   - Software Engineering
 ---
-<div class="text-center p-4">
-  <img width="500px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F7884117%2Fprogrammers_coding_working_team_icon&psig=AOvVaw0QhhwpMlGSPZRrgAXTks0u&ust=1715491106072000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj-jb_shIYDFQAAAAAdAAAAABAE" class="img-thumbnail"  alt="">
-</div>
-
-
 # ICS 414 Reflection
 This semester my team, Team Roots, worked closely with Sara Kenley to create an application for community outreach and community service, called VolunTree. In the past, I’ve taken a few classes that provided me with knowledge and practice in building websites, but none of them have been as immersive as VolunTree. I chose this class because I wanted to experience working with a customer in creating a functional website.
 ## The Customer
