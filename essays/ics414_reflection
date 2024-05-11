@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Developing for a Customer | Destiny Shishido | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/destinyshishido.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Destiny Shishido | Professional Portfolio">
+    <meta property="og:url" content="https://destinyshishido.github.io/essays/ics414_reflection">
+    <meta property="og:title" content="Developing for a Customer | Destiny Shishido | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/destinyshishido.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Developing for a Customer | Destiny Shishido | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Destiny Shishido</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Developing for a Customer</h1>
+  <span class="date">10 May 2025</span>
+  <hr>
+  <div class="text-center p-4">
+  <img width="500px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F7884117%2Fprogrammers_coding_working_team_icon&psig=AOvVaw0QhhwpMlGSPZRrgAXTks0u&ust=1715491106072000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj-jb_shIYDFQAAAAAdAAAAABAE" class="img-thumbnail"  alt="">
+</div>
+
+
+# ICS 414 Reflection
+This semester my team, Team Roots, worked closely with Sara Kenley to create an application for community outreach and community service, called VolunTree. In the past, I’ve taken a few classes that provided me with knowledge and practice in building websites, but none of them have been as immersive as VolunTree. I chose this class because I wanted to experience working with a customer in creating a functional website.
+## The Customer
+The biggest takeaway from this class was definitely learning how to communicate with the customer and implementing her ideas. Thankfully, Sara was very organized and provided us with an Excel spreadsheet that listed the functions and pages that she wanted. She gave each a “priority level” which made it easier for us to focus on the top-priority things, and then work on lower-priority things afterward. We were able to meet with her four times over the course of the semester, present our progress, and receive feedback. This was super helpful and allowed us to show her what we had created, and have conversations on what she liked about it, didn't like about it, and what she would like to see for the next meeting. Meeting a handful of times was helpful because we could base our to-do lists on the feedback we received from Sara. I also communicated with Sara through email to propose new ideas as well as clarify the details of the website. Working with a customer who has no computer science background is a bit difficult because they don’t know how difficult it is to implement the things they want. It is easy for them to come up with ideas for the website, but much harder to code it. It was important to remind myself of this because I was getting stressed out over the chat feature, which we did not know how to implement. It was also important to build the website based on what Sara wanted, not what I thought would be better. I find that I have the instinct to try to improve things or do things a different way that I believe may be more efficient, but it is not necessarily going to please the customer.
+
+## The Tools
+Another thing that was beneficial to learn about was using GitHub, a platform used by developers to create, store, manage, and share code. I have used GitHub before but only for personal projects, so using it along with seven other team members was something new for me. I believe that multiple other teammates had also never used GitHub like this before. There was definitely a learning curve to it, we had to communicate with each other so that our application would stop failing and our merges would stop clashing. Although it was frustrating when our application failed, it was good practice to search for where the error in the code was. We also were able to teach each other how to roll back to a past build if we could not figure out the error. We were able to delegate different pages to different people so a file is never worked on at the same time by two people, which would cause lost updates. Thanks to this experience, I am way better at using GitHub and I am an avid GitHub Desktop advocate. GitHub Desktop made it much easier to pull updates from the main branch, create/edit/delete branches, as well as push updates back to GitHub.
+
+## The Team
+The last thing I wanted to mention is my experience with working on an application with an entire team. I have only done this one time before, last semester, which admittedly I did not immerse myself fully into due to other priorities. Working with other people is an important skill and is necessary for future jobs, so I am happy I had the opportunity to work with my team of eight people. It was important for us to communicate in order to develop this application so we didn’t step on each other's toes, in terms of coding. We decided to use Discord as our main communication platform, which was a good idea because it allows everyone to see all chats, and we created separate chats for different topics. Having multiple chat channels such as announcements, general, merge announcements, etc. allowed us to have very organized chats for all to see without important ones getting lost. We needed to let each other know when we merged into the main channel and informed each other of new packages we needed to install. It was also helpful to ask each other questions if we weren't sure how to tackle an implementation of some sort. We all come from different backgrounds and have taken different classes, so some teammates were better at the user interface and some were better at the back end, it was useful to have such a variety of developers on this project. Lastly, the weekly code reviews were very helpful, as they forced everyone to carefully analyze each file from our project to find any small errors or styling issues that flew under our radar. It can be an overwhelming task to debug and fix all files within a project, but doing them weekly and as a group made it much more tangible.
+
+## Takeaways
+Overall, this was a challenging project but it taught me a lot in terms of working with a customer, working with teammates, and using developer tools better. It was an honor to work with such a great team to bring VolunTree to life for Sara, an application that will no doubt help our community here on O`ahu. I hope to work on more projects in the future and will apply all the skills and knowledge I have gained from this project!
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
