@@ -1,13 +1,12 @@
 {
   "basics": {
     "name": "Destiny Shishido",
-    "label": "Student",
+    "label": "Software Developer",
     "picture": "https://github.com/destinyshishido.png",
-    "email": "dest@hawaii.edu",
-    "phone": "808-367-4733",
+    "email": "destinyshishido@gmail.com",
     "website": "https://destinyshishido.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "destinyshishido", "url": "http://github.com/destinyshishido" },
       { "network": "linkedin", "username": "destinyshishido", "url": "https://www.linkedin.com/in/destiny-shishido-a68218280/" }
@@ -15,27 +14,39 @@
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "Video Game Design" },
-    { "name": "Website Design" }
+    { "name": "Web Development" },
+    { "name": "Information Technology" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "Python" ]
+      "name": "Languages",
+      "keywords": [ "Java", "Javascript", "HTML", "CSS", "Python", "C", "C++" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "Git/GitHub" ]
+      "name": "Frameworks/Libraries",
+      "keywords": [ "Meteor, Bootstrap, React" ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [ "MongoDB" ]
+    },
+    {
+      "name": "Desugn Tools",
+      "keywords": [ "Figma" ]
+    },
+    {
+      "name": "Skills",
+      "keywords": [ "Object-Oriented Programming, Front-End Development, Back-End Development, AGILE, GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "institution": "University of Hawaii at Manoa",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2021-08-01",
-      "endDate": "Present",
-      "courses": [
+      "endDate": "2024-12-01",
+      "courses": [ "Data Networks", "Network Science Methodology", "Computer System Security","Software Engineering I & II", "Operating Systems","Programming Language Theory", "Algorithms","Discrete Math I & II"
       ]
     }
   ],
@@ -46,10 +57,9 @@
       "website": "",
       "startDate": "2022-06-01",
       "endDate": "Present",
-      "summary": "Friendly Ice Cream Scooper",
+      "summary": "Server/Cashier",
       "highlights": [
-        "Managing tasks and time in order to keep the shop running smoothly",
-        "Customer service"
+        "Delivered friendly and efficient customer service, primarily to a tourist demographic, ensuring a welcoming and positive experience.\nManaged inventory and placed supply orders to maintain stock levels.\nUpheld high cleanliness standards, keeping the store well-organized and inviting\n"
       ]
     },
     {
@@ -60,12 +70,17 @@
       "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Complete drink and food orders in a timely manner",
-        "Teamwork and customer service"
+        "Established strong customer connections, prioritizing guest satisfaction and service excellence.\nMemorized and executed a variety of drink recipes quickly and accurately, maintaining a consistent quality of beverages.\nMaintained store cleanliness and adhered to company standards for a welcoming environment.\n"
       ]
     }
   ],
   "awards": [
+    {
+      "title": "Fall 2023 Manoa Dean's List",
+      "date": "Fall 2023",
+      "awarder": "University of Hawai`i at Manoa",
+      "summary": "Awarded to full-time students at UH Manoa with a GPA of 3.5+"
+    },
     {
       "title": "Spring 2023 Manoa Dean's List",
       "date": "Spring 2023",
@@ -94,7 +109,7 @@
       "title": "Congressional App Challenge - Second Place",
       "date": "2019",
       "awarder": "Congressman Ed Case",
-      "summary": "My team placed second in the 2019 Congressional App Challenge"
+      "summary": ""
     }
   ],
   "references": [

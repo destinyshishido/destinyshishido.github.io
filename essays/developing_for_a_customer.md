@@ -3,13 +3,14 @@ layout: essay
 type: essay
 title: "Developing for a Customer"
 # All dates must be YYYY-MM-DD format!
-date: 2025-05-10
+date: 2024-05-10
 published: true
 labels:
   - Software Engineering
 ---
 # ICS 414 Reflection
 This semester my team, Team Roots, worked closely with Sara Kenley to create an application for community outreach and community service, called VolunTree. In the past, I’ve taken a few classes that provided me with knowledge and practice in building websites, but none of them have been as immersive as VolunTree. I chose this class because I wanted to experience working with a customer in creating a functional website.
+
 ## The Customer
 The biggest takeaway from this class was definitely learning how to communicate with the customer and implementing her ideas. Thankfully, Sara was very organized and provided us with an Excel spreadsheet that listed the functions and pages that she wanted. She gave each a “priority level” which made it easier for us to focus on the top-priority things, and then work on lower-priority things afterward. We were able to meet with her four times over the course of the semester, present our progress, and receive feedback. This was super helpful and allowed us to show her what we had created, and have conversations on what she liked about it, didn't like about it, and what she would like to see for the next meeting. Meeting a handful of times was helpful because we could base our to-do lists on the feedback we received from Sara. I also communicated with Sara through email to propose new ideas as well as clarify the details of the website. Working with a customer who has no computer science background is a bit difficult because they don’t know how difficult it is to implement the things they want. It is easy for them to come up with ideas for the website, but much harder to code it. It was important to remind myself of this because I was getting stressed out over the chat feature, which we did not know how to implement. It was also important to build the website based on what Sara wanted, not what I thought would be better. I find that I have the instinct to try to improve things or do things a different way that I believe may be more efficient, but it is not necessarily going to please the customer.
 
